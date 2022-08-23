@@ -1,0 +1,17 @@
+Original:
+0 100 100000000
+With n = 100000000 trapezoids, our estimate
+of the integral from 0.000000 to 100.000000 = 3.33333333333331e+005
+Finished calculation in 231.0 ms.
+
+A:
+0 100 100000000
+With n = 100000000 trapezoids, our estimate
+of the integral from 0.000000 to 100.000000 = 3.33333333333331e+005
+Finished calculation in 232.0 ms.
+
+B:
+0 100 100000000
+With n = 100000000 trapezoids, our estimate
+of the integral from 0.000000 to 100.000000 = 3.33333333333331e+005
+Finished calculation in 229.0 ms.

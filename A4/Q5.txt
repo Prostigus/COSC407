@@ -1,0 +1,3 @@
+a) i should be shared, count and j should be private
+
+b) no as we place everything in a temp array and never change a
